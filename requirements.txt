@@ -1,0 +1,9 @@
+numpy==1.26.4
+pandas==2.2.1
+scikit-learn==1.4.0
+xgboost==2.0.3
+pytorch-tabnet==4.1.0
+rtdl==0.0.13
+optuna==3.5.0
+torch==2.1.0
+matplotlib==3.8.3
